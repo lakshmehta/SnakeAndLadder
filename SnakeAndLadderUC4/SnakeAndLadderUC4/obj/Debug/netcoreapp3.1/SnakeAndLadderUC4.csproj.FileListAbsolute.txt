@@ -1,0 +1,13 @@
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.exe
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.deps.json
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.runtimeconfig.json
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.runtimeconfig.dev.json
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.dll
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\bin\Debug\netcoreapp3.1\SnakeAndLadderUC4.pdb
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.csprojAssemblyReference.cache
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.AssemblyInfoInputs.cache
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.AssemblyInfo.cs
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.csproj.CoreCompileInputs.cache
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.dll
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.pdb
+F:\Snake and ladder\SnakeAndLadderUC4\SnakeAndLadderUC4\obj\Debug\netcoreapp3.1\SnakeAndLadderUC4.genruntimeconfig.cache
